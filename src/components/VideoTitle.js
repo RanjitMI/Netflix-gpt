@@ -13,7 +13,6 @@ const VideoTitle = ({ title, overview }) => {
         </button>
         <button className="bg-gray-700 mx-2 text-white p-4 px-14 text-xl bg-opacity-50 rounded-lg ">
           <span className="flex justify-between">
-          <IoIosInformationCircleOutline />
           More Info
           </span>
         </button>
